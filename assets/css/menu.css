@@ -50,8 +50,8 @@ z-index: 1000;
 background-color: #FFFFFF22;
     font-weight: bold;
 }
-@media screen and (max-width:768px){}
-    .nav-container{
+@media screen and (max-width:768px){
+.nav-container {
         flex-direction: column;
         align-items: start;
         padding: 16px;
@@ -72,3 +72,4 @@ background-color: #FFFFFF22;
         padding: 12px;
         width: 100%;
     }
+}
